@@ -1,0 +1,16 @@
+   0 mkdir /home/animals
+   1 cd /home/animals
+   2 mkdir dogs cats fish
+   3 touch dogs/pluto cats/garfield fish/nemo
+   4 tree /home/
+   5 touch /tmp/adam
+   6 mkdir /home/humans
+   7 cp /tmp/adam /home/humans/
+   8 touch /tmp/evA
+   9 mv /opt/evA /opt/eve
+  10 mv /tmp/evA /opt/eve
+  11 mv /opt/eve /home/humans
+  12 cd ..
+  13 tree
+  14 hystory > hystory_ivan_19_06.txt
+  15 history > history_ivsn_19_06.txt
