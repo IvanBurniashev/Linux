@@ -1,0 +1,7 @@
+Wed Jul 26 14:15:14 UTC 2023
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/root              5120000   2417700   2702300  47% /
+   0 date > newfile.txt
+   1 df / >> newfile.txt 
+   2 history | tail -5 >> newfile.txt 
+AuthenticX86

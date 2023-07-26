@@ -1,0 +1,7 @@
+   0 date > newfile.txt
+   1 df / >> newfile.txt 
+   2 history | tail -5 >> newfile.txt 
+   3 cat /proc/cpuinfo | head -2 | tail -1 >> newfile.txt 
+   4 nano newfile.txt 
+   5 export_file newfile.txt 
+   6 history > history.txt
